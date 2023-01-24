@@ -1,0 +1,36 @@
+html {
+    width: 90%;
+    margin-left: 6%;
+    padding: 1%;
+    float: left;
+    font-size: 1.4em;
+}
+
+body {
+    width: 1280px;
+    float: left;
+    text-align: justify;
+}
+
+#kondic {
+    margin-left: 6%;
+}
+
+table th {
+    text-align: center;
+}
+
+table {
+    text-align: left;
+}
+
+#table_2 th {
+    text-align: left;
+}
+
+#table_3 th, #table_3 td {
+    text-align: left;
+    width: 30%;
+}
+
+
